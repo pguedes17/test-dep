@@ -1,7 +1,7 @@
 {
-  "name": "test-dep",
+  "name": "@pguedes17/test-dep",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test lib",
   "type": "module",
   "main": "src/index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "url": "git+https://github.com/pguedes17/test-dep.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Pedro Guedes",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pguedes17/test-dep/issues"
   },
